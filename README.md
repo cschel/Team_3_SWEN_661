@@ -1,4 +1,4 @@
 # Team_3_SWEN_661
-Project Name: 
-Project is to allow for mobile, desktop and web customization for care recipieent that have Low vision accessibility
-Team Charter: 
+Project Name: ____________. 
+Project is to allow for mobile, desktop and web customization for care recipient that have low vision accessibility.
+Link to Team Charter: 
