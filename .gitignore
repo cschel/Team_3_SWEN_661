@@ -1,11 +1,34 @@
 # Miscellaneous
 *.class
 *.lock
+!pubspec.lock
+!package-lock.json
 *.log
 *.pyc
 *.swp
 .buildlog/
 .history
+
+# Node.js
+node_modules/
+dist/
+.env
+.env.local
+
+# Electron
+electron-app/out/
+
+# Expo / React Native
+.expo/
+*.hbc
+
+# AI tooling configs
+.claude/
+CLAUDE.md
+AGENTS.md
+
+# Assignments
+assignments/
 
 
 
